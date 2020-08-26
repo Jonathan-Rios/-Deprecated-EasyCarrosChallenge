@@ -53,7 +53,7 @@ O desafio consiste em desenvolver um CRUD de Ordem de serviços automotivos real
 - Você pode criar uma aplicação Web Responsiva ou criar uma aplicação Mobile;
 - Persistir os dados do CRUD localmente utilizando um Array ou LocalStorage/AsyncStorage;
 
-## Requisitos:
+## Layout
 
 Você pode seguir a nossa sugestão de layout nesses [clique aqui](https://xd.adobe.com/view/fd762ae3-ba7d-43a5-9c45-3c51cdb17978-a825/)
 
@@ -63,15 +63,20 @@ Caso o link acima não funcione você pode acessar esta pasta no google drive co
 
 Os icones e imagens que você vai precisar para seguir nosso layout estão na pasta assets neste repositório.
 
-### - Usuário deve entrar em uma tela de boas vindas;
+### Tela de boas vindas;
 
 ![Tela Boas Vindas](./assets/FRONT01.png)
 
-### - Usuário deve navegar da tela de boas vindas para a tela do CRUD;
+### Tela para listagem e inserção de novas ordens
 
 ![Tela Boas Vindas](./assets/FRONT02.png)
 
 > Você também pode criar suas proprias telas, tem total liberdade para desenvolver o teste sguindo nossa sugestão de layout ou criando suas proprias telas.
+
+## Requisitos:
+
+- Você deve salvar a lista de ordem de serviço localmente, utilizando Array, LocalStorage/AsyncStorage
+- Você deve ter 2 telas - Telas de boas vindas e tela do CRUD
 
 ### O que o usuário pode fazer?
 
