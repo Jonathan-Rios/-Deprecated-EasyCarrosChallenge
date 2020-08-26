@@ -33,7 +33,7 @@ Esta alternativa é direcionada aos candidatos(as) que não queiram que a submis
 
 - Caso não saiba nem usar o Git:
 
-  Caso não saiba nem usar o Git para clonar o repositório e iniciar o projeto, também não tem problema. Clique no botão "Download ZIP" na barra lateral direita nesta página, baixe o .zip do projeto, modifique-o, comprima novamente em um novo arquivo .zip e mande por email para people@easycarros.com.
+  Se preferir faça o download clicando no no botão "Download ZIP" na barra lateral direita nesta página, baixe o .zip do projeto, modifique-o, comprima novamente em um novo arquivo .zip e mande por email para people@easycarros.com.
 
 ## Consigo fazer?
 
@@ -51,8 +51,8 @@ Consegue sim! Só precisa saber (ou aprender agora) um pouco sobre as seguintes 
 
 O desafio consiste em desenvolver um CRUD de Ordem de serviço.
 
-- Você pode criar uma aplicação Web Responsiva (Mobile e Web) ou cria uma aplicação React Native.
-- Consumindo uma API Rest trabalhando com os métodos HTTP - GET, POST, PUT, DELETE ou persistindo os dados do CRUD localmente utilizando um Array ou LocalStorage.
+- Você pode criar uma aplicação Web Responsiva ou cria uma aplicação Mobile.
+- Persistir os dados do CRUD localmente utilizando um Array ou LocalStorage.
 
 ## Requisitos:
 
