@@ -1,4 +1,4 @@
-# Teste Front-End Javascript
+# Teste Front-End Jr Javascript
 
 > [![Logo Easy Carros](./assets/easy-carros-logo.png)](https://easycarros.com/)
 >
@@ -43,21 +43,35 @@ Consegue sim! Só precisa saber (ou aprender agora) um pouco sobre as seguintes 
 - CSS
 - Javascript
 - Git
-- Consumo de APIs Rest
 
-> Diferencial: React ou React Native
+> Diferencial: React ou React Native, utilizamos esses frameworks aqui.
 
 ## Desafio:
 
-O desafio consiste em desenvolver um CRUD de Ordem de serviço.
+O desafio consiste em desenvolver um CRUD de Ordem de serviços automotivos realizados em uma placa.
 
-- Você pode criar uma aplicação Web Responsiva ou cria uma aplicação Mobile.
-- Persistir os dados do CRUD localmente utilizando um Array ou LocalStorage.
+- Você pode criar uma aplicação Web Responsiva ou criar uma aplicação Mobile;
+- Persistir os dados do CRUD localmente utilizando um Array ou LocalStorage/AsyncStorage;
 
 ## Requisitos:
 
-- Usuário deve entrar em uma tela de boas vindas;
-- Usuário deve navegar da tela de boas vindas para a tela do CRUD;
+Você pode seguir a nossa sugestão de layout nesses [clique aqui](https://xd.adobe.com/view/fd762ae3-ba7d-43a5-9c45-3c51cdb17978-a825/)
+
+Caso o link acima não funcione você pode acessar esta pasta no google drive com o arquivo .xd
+
+[Google drive - clique aqui](https://drive.google.com/drive/folders/1MRGb6owzQzL4_4gGwe2LXkpqgJTcX8G_?usp=sharing)
+
+Os icones e imagens que você vai precisar para seguir nosso layout estão na pasta assets neste repositório.
+
+### - Usuário deve entrar em uma tela de boas vindas;
+
+![Tela Boas Vindas](./assets/FRONT01.png)
+
+### - Usuário deve navegar da tela de boas vindas para a tela do CRUD;
+
+![Tela Boas Vindas](./assets/FRONT02.png)
+
+> Você também pode criar suas proprias telas, tem total liberdade para desenvolver o teste sguindo nossa sugestão de layout ou criando suas proprias telas.
 
 ### O que o usuário pode fazer?
 
@@ -72,8 +86,8 @@ Atributos da ordem de serviço:
 ```
 
 - Usuario deve poder cadastrar uma nova ordem de serviço;
-- Usuario deve poder ver a lista de ordem de serviços criadas;
-- Usuario deve poder atualizar a data de execução de uma ordem de serviço;
+- Usuario deve poder ver a lista de ordem de serviços cadastradas;
+- Usuario deve poder atualizar a data de execução de uma ordem de serviço, finalizando o serviço;
 - Usuario deve poder deletar uma ordem de serviço;
 
 Não foque 100% nos requisitos, gostamos de quem vai além do esperado!
