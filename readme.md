@@ -2,7 +2,7 @@
 
 > [![Logo Easy Carros](./assets/easy-carros-logo.png)](https://easycarros.com/)
 >
-> Olá, nesse teste vamos analisar seus conhecimentos como desenvolvedor Front-end utilizando as tecnologias: <b>HTML, CSS, JavaScript</b><br>
+> Olá, nesse teste vamos analisar seus conhecimentos como desenvolvedor Front-end utilizando as tecnologias: HTML, CSS, JavaScript
 
 Olá Dev! Tudo bem?
 
