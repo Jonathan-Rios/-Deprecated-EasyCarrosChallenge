@@ -1,5 +1,7 @@
 # Teste Front-End Javascript
 
+<img src="./assets/easy-carros-logo.png" alt="Logo Easy Carros" width="500"/>
+
 > [![Logo Easy Carros](./assets/easy-carros-logo.png)](https://easycarros.com/)
 >
 > Olá, nesse teste vamos analisar seus conhecimentos como desenvolvedor Front-end utilizando as tecnologias: HTML, CSS, JavaScript
