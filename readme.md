@@ -75,8 +75,8 @@ Os icones e imagens que você vai precisar para seguir nosso layout estão na pa
 
 ## Requisitos:
 
-- Você deve salvar a lista de ordem de serviço localmente, utilizando Array, LocalStorage/AsyncStorage
-- Você deve ter 2 telas - Telas de boas vindas e tela do CRUD
+- A aplicação deve salvar a lista de ordem de serviço localmente, utilizando Array, LocalStorage/AsyncStorage
+- A aplicação deve ter 2 telas - Telas de boas vindas e tela do CRUD
 
 ### O que o usuário pode fazer?
 
