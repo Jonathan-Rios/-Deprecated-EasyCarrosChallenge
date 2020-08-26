@@ -31,9 +31,7 @@ Esta alternativa é direcionada aos candidatos(as) que não queiram que a submis
 3. Comprima o projeto todo em um arquivo .zip.
 4. Por fim envie o arquivo .zip anexado por email para people@easycarros.com.
 
-- Caso não saiba nem usar o Git:
-
-  Se preferir faça o download clicando no no botão "Download ZIP" na barra lateral direita nesta página, baixe o .zip do projeto, modifique-o, comprima novamente em um novo arquivo .zip e mande por email para people@easycarros.com.
+Se preferir faça o download clicando no no botão "Download ZIP" na barra lateral direita nesta página, baixe o .zip do projeto, modifique-o, comprima novamente em um novo arquivo .zip e mande por email para people@easycarros.com.
 
 ## Consigo fazer?
 
