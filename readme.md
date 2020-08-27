@@ -49,7 +49,7 @@ Consegue sim! Só precisa saber (ou aprender agora) um pouco sobre as seguintes 
 O desafio consiste em desenvolver um CRUD de Ordem de serviços automotivos realizados em uma placa.
 
 - Você pode criar uma aplicação Web Responsiva ou criar uma aplicação Mobile;
-- Persistir os dados do CRUD localmente utilizando um Array ou LocalStorage/AsyncStorage;
+- Um desafio para você: tente persistir os dados do CRUD localmente.
 
 ## Layout
 
@@ -69,11 +69,11 @@ Os icones e imagens que você vai precisar para seguir nosso layout estão na pa
 
 ![Tela Boas Vindas](./assets/FRONT02.png)
 
-> Você também pode criar suas proprias telas, tem total liberdade para desenvolver o teste sguindo nossa sugestão de layout ou criando suas proprias telas.
+> Você também pode criar suas proprias telas, tem total liberdade para desenvolver o teste seguindo nossa sugestão de layout ou criando suas proprias telas.
 
 ## Requisitos:
 
-- A aplicação deve salvar a lista de ordem de serviço localmente, utilizando Array, LocalStorage/AsyncStorage
+- A aplicação deve salvar a lista de ordem de serviço localmente.
 - A aplicação deve ter 2 telas - Telas de boas vindas e tela do CRUD
 
 ### O que o usuário pode fazer?
