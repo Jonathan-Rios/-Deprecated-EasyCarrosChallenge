@@ -1,10 +1,11 @@
 # Teste Front-End Jr Javascript
 
 > [![Logo Easy Carros](./assets/easy-carros-logo.png)](https://easycarros.com/)
->
->Boa tarde, aqui segue o desafio, só precisa usar o **yarn** na pasta **easycarros-web** para instalar as dependências.
 
-## Realizei utizando:
+
+Boa tarde, aqui segue o desafio, só precisa usar o **yarn** na pasta **easycarros-web** para instalar as dependências.
+
+## Realizei utilizando:
 
 * ReactJS com Typescript
 
